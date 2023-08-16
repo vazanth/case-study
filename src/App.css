@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+  text-align: center;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+.table th,
+td {
+  border: 1px solid black;
+}
+
+td {
+  padding: 5px;
+}
+
+.tableheading {
+  text-align: start;
+  padding-left: 2rem;
+}
